@@ -4,7 +4,7 @@ I'm Sofía B. and I'm Frontend Developer and Food Engineer captivated by everyth
 value to people's lives. 
 
 ### Now let me tell you a bit about myself:
-- 🧠 I'm Laboratorian ![image](https://user-images.githubusercontent.com/81938344/200426965-25108429-ec45-4c2c-afd0-4662745804bb.png)
+- 🧠 I'm Laboratorian ![image](https://user-images.githubusercontent.com/81938344/200427255-abdaa843-aab6-433b-96d8-5d61fd478f39.png)
 
 - 🔭 I’m currently working on Markdown links project
 - 🌱 I’m currently learning Node.js and Jest testing
